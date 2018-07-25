@@ -30,9 +30,9 @@ Regions within a network are linked through physical WAN connectivity. A *networ
 
 For details about working with network region links, see the Lync Server Management Shell documentation for the following cmdlets:
 
-  - [New-CsNetworkRegionLink](new-csnetworkregionlink.md)
+  - [New-CsNetworkRegionLink](new-csnetworkregionlink.md) 
 
-  - [Get-CsNetworkRegionLink](get-csnetworkregionlink.md)
+  - [Get-CsNetworkRegionLink](get-csnetworkregionlink.md) 
 
   - [Set-CsNetworkRegionLink](set-csnetworkregionlink.md)
 
